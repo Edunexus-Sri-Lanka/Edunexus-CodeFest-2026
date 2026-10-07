@@ -4,10 +4,10 @@
 
 <p align="center">
   <strong>AI-powered school & student development platform</strong><br>
-  CodeFest 2026 · AI Senior Category · Team G027, Miracle International School
+  Winner, School AI category · CodeFest 2026 · Team G027, Miracle International School
 </p>
 
-> **This is the CodeFest 2026 competition version of EduNexus**, kept public as a record of what was submitted and demonstrated. It is not maintained. EduNexus continues to be developed privately by the [Edunexus-Sri-Lanka](https://github.com/Edunexus-Sri-Lanka) team.
+> **This is the CodeFest 2026 competition version of EduNexus, which won the School AI category.** It is kept public as a record of what was submitted and demonstrated. It is not maintained. EduNexus continues to be developed privately by the [Edunexus-Sri-Lanka](https://github.com/Edunexus-Sri-Lanka) team.
 
 ---
 
@@ -50,7 +50,7 @@ Both contributed ongoing fixes, live testing, and ordinary changes throughout �
 
 ## Competition
 
-Submitted to **CodeFest 2026**, AI Senior Category, organised by SLIIT (Sri Lanka Institute of Information Technology) — team G027, Miracle International School.
+**Winner of the School AI category at CodeFest 2026**, organised by SLIIT (Sri Lanka Institute of Information Technology) — team G027, Miracle International School.
 
 ## Honest limitations
 
